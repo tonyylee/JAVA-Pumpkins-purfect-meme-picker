@@ -1,25 +1,19 @@
-# JAVA-Pumpkins-purfect-meme-picker
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
 
-A simple interactive web app that lets users filter and view cat images based on their emotions. The app dynamically generates emotion-based radio buttons from data and shows a modal with a cat image matching the selected emotion. Users can also filter to show GIF images only.
+Head over to https://vitejs.dev/ to learn more about configuring vite
+## About Scrimba
 
----
+At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
+If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
+The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
 
-## Features
+- [Our courses](https://scrimba.com/courses)
+- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
+- [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
-- Dynamic generation of emotion filter radio buttons based on cat data
-- Filter cats by their emotion tags
-- Option to filter for GIF images only
-- Modal popup displaying the selected cat image
-- Close modal by clicking the "X" button or outside the modal content
-
----
-
-## Technologies Used
-
-- HTML5 
-- CSS3 
-- JavaScript (ES6+)
-- No external libraries or frameworks used
-
-DISCLAIMER:
-- For educational purposes only! 
+Happy Coding!
